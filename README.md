@@ -1,6 +1,7 @@
 # meanPhredScore
 
-## Compute highest and lowest mean Phred scores from fastx outputs
+## Extract highest and lowest mean Phred scores from fastx outputs
+This Bash script computes/extracts highest and lowest mean Phred scores (quality of sequencing) based on fastx_quality_stats tool outputs.
 
 ## Dependencies
 fastx_toolkit (http://hannonlab.cshl.edu/fastx_toolkit)
